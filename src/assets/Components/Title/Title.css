@@ -1,0 +1,20 @@
+.title h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    color: #000f38;
+    text-transform: none;
+     
+}
+.title p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title{
+    margin: 50px 0 30px;
+    color: #212ea0;
+    font-size: 15px;
+    font-weight: 600;
+}

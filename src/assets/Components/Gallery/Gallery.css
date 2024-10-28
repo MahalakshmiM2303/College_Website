@@ -1,0 +1,26 @@
+/* .gallery{
+    width: 80px auto;
+    
+} */
+.gallery {
+    width: 80px auto;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 40px;
+    position: relative;
+   
+}
+.gallery img{
+    width: 18%;
+    border-radius: 10px;
+    
+}
+/* .gal-btn{
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+} */
